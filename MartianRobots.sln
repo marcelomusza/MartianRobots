@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartianRobots.API", "MartianRobots.API\MartianRobots.API.csproj", "{64D0D211-021C-4CBC-B9E4-7F0BE12C2076}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FFE439EF-ECEB-4808-BAFE-70BBA26E454C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6CD408AE-EBA6-4384-BAF1-B3A2C019C56D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartianRobots.Core", "MartianRobots.Core\MartianRobots.Core.csproj", "{24E3CF02-F8B6-406A-BC25-96B55BF2E005}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartianRobots.Infrastructure", "MartianRobots.Infrastructure\MartianRobots.Infrastructure.csproj", "{00E3D329-E581-4200-A649-44EE2727C4E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartianRobots.Application", "MartianRobots.Application\MartianRobots.Application.csproj", "{D546F380-6930-4743-83B3-98D8C9B93F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D0D211-021C-4CBC-B9E4-7F0BE12C2076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D0D211-021C-4CBC-B9E4-7F0BE12C2076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D0D211-021C-4CBC-B9E4-7F0BE12C2076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D0D211-021C-4CBC-B9E4-7F0BE12C2076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E3CF02-F8B6-406A-BC25-96B55BF2E005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E3CF02-F8B6-406A-BC25-96B55BF2E005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E3CF02-F8B6-406A-BC25-96B55BF2E005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E3CF02-F8B6-406A-BC25-96B55BF2E005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E3D329-E581-4200-A649-44EE2727C4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E3D329-E581-4200-A649-44EE2727C4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E3D329-E581-4200-A649-44EE2727C4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E3D329-E581-4200-A649-44EE2727C4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D546F380-6930-4743-83B3-98D8C9B93F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D546F380-6930-4743-83B3-98D8C9B93F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D546F380-6930-4743-83B3-98D8C9B93F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D546F380-6930-4743-83B3-98D8C9B93F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{64D0D211-021C-4CBC-B9E4-7F0BE12C2076} = {FFE439EF-ECEB-4808-BAFE-70BBA26E454C}
+		{24E3CF02-F8B6-406A-BC25-96B55BF2E005} = {FFE439EF-ECEB-4808-BAFE-70BBA26E454C}
+		{00E3D329-E581-4200-A649-44EE2727C4E9} = {FFE439EF-ECEB-4808-BAFE-70BBA26E454C}
+		{D546F380-6930-4743-83B3-98D8C9B93F42} = {FFE439EF-ECEB-4808-BAFE-70BBA26E454C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6BB90B-AEFD-438B-963D-C3C8747A8778}
+	EndGlobalSection
+EndGlobal

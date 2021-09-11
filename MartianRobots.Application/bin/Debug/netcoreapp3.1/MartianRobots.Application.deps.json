@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MartianRobots.Application/1.0.0": {
+        "dependencies": {
+          "MartianRobots.Core": "1.0.0"
+        },
+        "runtime": {
+          "MartianRobots.Application.dll": {}
+        }
+      },
+      "MartianRobots.Core/1.0.0": {
+        "runtime": {
+          "MartianRobots.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MartianRobots.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MartianRobots.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

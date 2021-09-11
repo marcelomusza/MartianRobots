@@ -1,0 +1,15 @@
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.deps.json
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.dll
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.runtimeconfig.json
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.pdb
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Core.dll
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Core.pdb
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.dll
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.pdb
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Infrastructure\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Infrastructure.genruntimeconfig.cache

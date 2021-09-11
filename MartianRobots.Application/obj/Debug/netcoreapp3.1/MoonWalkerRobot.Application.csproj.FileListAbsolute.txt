@@ -1,0 +1,9 @@
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Application.deps.json
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Application.dll
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\bin\Debug\netcoreapp3.1\MoonWalkerRobot.Application.pdb
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Application.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Application.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Application.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Application.dll
+C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Application\obj\Debug\netcoreapp3.1\MoonWalkerRobot.Application.pdb
