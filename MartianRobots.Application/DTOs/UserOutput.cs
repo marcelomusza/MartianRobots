@@ -9,9 +9,9 @@ namespace MartianRobots.Application.DTOs
     {
         public UserOutput()
         {
-            RobotResult = new List<RobotOperations>();
+            RobotResult = new List<Robot>();
         }
-        public List<RobotOperations> RobotResult { get; set; }
+        public List<Robot> RobotResult { get; set; }
 
     }
 }

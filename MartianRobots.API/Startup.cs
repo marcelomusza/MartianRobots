@@ -14,6 +14,8 @@ using MartianRobots.Infrastructure.Data;
 using MartianRobots.Application.Utilities;
 using MartianRobots.Application.Interfaces;
 using MartianRobots.Application.Engines;
+using MartianRobots.Core.Interfaces;
+using MartianRobots.Infrastructure;
 
 namespace MartianRobots
 {
@@ -48,6 +50,7 @@ namespace MartianRobots
             // DEPENDENCY INJECTION
             services.AddScoped<ILogger, Logger>();
             services.AddScoped<IMartianEngine, MartianEngine>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             //Stablishing the relative location for the local db, available to be ran on any environment
             string conn = Configuration.GetConnectionString("MartianRobotsDb");
