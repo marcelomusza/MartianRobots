@@ -17,7 +17,8 @@ namespace MartianRobots.Infrastructure.Data
         public DbSet<Robot> Robots { get; set; }
         public DbSet<Position> Positions { get; set; }
         public DbSet<RobotMovements> RobotMovements { get; set; }
-        public DbSet<DeadEnd> DeadEnds { get; set; }
+        public DbSet<RobotScent> RobotScents { get; set; }
+        public DbSet<GridCoordinate> GridCoordinates { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

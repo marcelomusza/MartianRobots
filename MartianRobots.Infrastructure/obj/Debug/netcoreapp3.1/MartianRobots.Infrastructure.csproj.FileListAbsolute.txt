@@ -23,8 +23,8 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\bin\Deb
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.csprojAssemblyReference.cache
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.AssemblyInfo.cs
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.csproj.CopyComplete
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.pdb
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.genruntimeconfig.cache
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Infrastructure\obj\Debug\netcoreapp3.1\MartianRobots.Infrastructure.csproj.CoreCompileInputs.cache

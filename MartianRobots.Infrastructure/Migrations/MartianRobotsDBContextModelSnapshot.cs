@@ -18,7 +18,7 @@ namespace MartianRobots.Infrastructure.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("MartianRobots.Core.Entities.DeadEnd", b =>
+            modelBuilder.Entity("MartianRobots.Core.Entities.GridCoordinate", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -33,7 +33,7 @@ namespace MartianRobots.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("DeadEnds");
+                    b.ToTable("GridCoordinates");
                 });
 
             modelBuilder.Entity("MartianRobots.Core.Entities.Position", b =>
@@ -79,6 +79,9 @@ namespace MartianRobots.Infrastructure.Migrations
                     b.Property<bool>("Dead")
                         .HasColumnType("bit");
 
+                    b.Property<int>("GridCoordinatesId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Instruction")
                         .IsRequired()
                         .HasColumnType("nvarchar(1)");
@@ -95,6 +98,8 @@ namespace MartianRobots.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("GridCoordinatesId");
+
                     b.HasIndex("PositionId");
 
                     b.HasIndex("RobotId");
@@ -102,8 +107,36 @@ namespace MartianRobots.Infrastructure.Migrations
                     b.ToTable("RobotMovements");
                 });
 
+            modelBuilder.Entity("MartianRobots.Core.Entities.RobotScent", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Orientation")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(1)");
+
+                    b.Property<int>("X")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Y")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("RobotScents");
+                });
+
             modelBuilder.Entity("MartianRobots.Core.Entities.RobotMovements", b =>
                 {
+                    b.HasOne("MartianRobots.Core.Entities.GridCoordinate", "GridCoordinates")
+                        .WithMany()
+                        .HasForeignKey("GridCoordinatesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("MartianRobots.Core.Entities.Position", "Position")
                         .WithMany()
                         .HasForeignKey("PositionId")

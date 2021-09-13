@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CXJzikUWbfjYFl6D9vmQsJFzXpb1PtLq9XRbWq9XsxKgJndpgm7rN+DFVqKnEcRBwekMtk/bx/piG4jcWfoYmg==",
+  "dgSpecHash": "Ko1e0tLq3PilwdI7/y/Y8PuGbTNzLOis1mUhIK4oe9ndp+bZBOVcp+QtYC8lByIFLvyYFYknjyRI+iSxxS5AKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marcelo\\source\\repos\\MartianRobots\\MartianRobots.Application\\MartianRobots.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcelo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

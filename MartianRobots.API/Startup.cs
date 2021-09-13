@@ -46,6 +46,7 @@ namespace MartianRobots
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddAutoMapper(typeof(MappingProfile));
 
             // DEPENDENCY INJECTION
             services.AddScoped<ILogger, Logger>();

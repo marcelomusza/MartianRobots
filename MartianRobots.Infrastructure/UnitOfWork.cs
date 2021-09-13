@@ -10,12 +10,17 @@ namespace MartianRobots.Infrastructure
     public class UnitOfWork : IUnitOfWork
     {
         public IRobotMovementsRepository RobotMovements { get; private set; }
+        public IRobotsRepository Robots { get; private set; }
+        public IRobotScentRepository DeadEnds { get; set; }
+
         private readonly MartianRobotsDBContext _context;
 
         public UnitOfWork(MartianRobotsDBContext context)
         {
             _context = context;
             RobotMovements = new RobotMovementsRepository(context);
+            Robots = new RobotsRepository(context);
+            DeadEnds = new RobotScentRepository(context);
         }
 
         public int Complete()

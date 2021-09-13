@@ -1,5 +1,5 @@
-﻿using MartianRobots.Application.Interfaces;
-using MartianRobots.Application.Models;
+﻿using MartianRobots.Application.DTOs;
+using MartianRobots.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -34,7 +34,7 @@ namespace MartianRobots.API.Controllers
 
         [HttpPost]
         [Route("Input")]
-        public IActionResult Input([FromBody] UserInput input)
+        public IActionResult Input([FromBody] UserInputDTO input)
         {
             //invoke Engine method
             var result = martianEngine.OperateRobotsOnGrid(input);

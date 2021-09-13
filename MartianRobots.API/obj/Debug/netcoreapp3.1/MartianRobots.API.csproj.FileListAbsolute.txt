@@ -114,9 +114,11 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcorea
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Debug\netcoreapp3.1\MartianRobots.API.csproj.CoreCompileInputs.cache
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Debug\netcoreapp3.1\MartianRobots.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\.filenesting.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\MartianRobots.API.Views.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\MartianRobots.Application.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\MartianRobots.Application.pdb
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Debug\netcoreapp3.1\MartianRobots.API.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Debug\netcoreapp3.1\MartianRobots.API.MvcApplicationPartsAssemblyInfo.cache

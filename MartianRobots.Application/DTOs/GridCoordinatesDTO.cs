@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MartianRobots.Application.Models
+namespace MartianRobots.Application.DTOs
 {
-    public class Position
+    public class GridCoordinatesDTO
     {
         public int X { get; set; }
         public int Y { get; set; }

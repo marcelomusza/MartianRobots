@@ -4,13 +4,13 @@ using System.Text;
 
 namespace MartianRobots.Application.DTOs
 {
-    public class GridCell
+    public class GridCellDTO
     {
-        public GridCell()
+        public GridCellDTO()
         {
-            Robot = new Robot();
+            Robot = new RobotDTO();
         }
 
-        public Robot Robot { get; set; }
+        public RobotDTO Robot { get; set; }
     }
 }

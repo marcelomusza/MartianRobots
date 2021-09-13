@@ -18,5 +18,8 @@ namespace MartianRobots.Core.Entities
 
         public Position Position { get; set; }
         public int PositionId { get; set; }
+
+        public GridCoordinate GridCoordinates { get; set; }
+        public int GridCoordinatesId { get; set; }
     }
 }

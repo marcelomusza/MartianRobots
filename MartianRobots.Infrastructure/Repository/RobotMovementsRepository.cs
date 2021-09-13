@@ -1,8 +1,10 @@
 ﻿using MartianRobots.Core.Entities;
 using MartianRobots.Core.Interfaces;
 using MartianRobots.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace MartianRobots.Infrastructure.Repository
@@ -21,6 +23,25 @@ namespace MartianRobots.Infrastructure.Repository
         public MartianRobotsDBContext MartianRobotsDBContext
         {
             get { return Context as MartianRobotsDBContext; }
+        }
+
+
+
+        public IEnumerable<RobotMovements> GetListOfRobots()
+        {
+            return ctx.RobotMovements
+                .Include(r => r.Robot)
+                .Include(p => p.Position)
+                .ToList();
+        }
+
+        public RobotMovements GetRobotByName(string robotName)
+        {
+            return ctx.RobotMovements
+                .Include(r => r.Robot)
+                .Include(p => p.Position)
+                .Where(x => x.Robot.Name.Equals(robotName))
+                .FirstOrDefault();
         }
     }
 }

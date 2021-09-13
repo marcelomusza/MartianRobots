@@ -2,14 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MartianRobots.Core.Entities
+namespace MartianRobots.Application.DTOs
 {
-    public class DeadEnd
+    public class RobotScentDTO
     {
-
-        public int Id { get; set; }
-
         public int X { get; set; }
         public int Y { get; set; }
+        public char Orientation { get; set; }
     }
 }
