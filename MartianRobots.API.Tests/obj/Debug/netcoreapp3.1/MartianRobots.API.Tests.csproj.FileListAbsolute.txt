@@ -2,6 +2,10 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\ne
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.MartianRobots - Web Deploy.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\mssql1.arm.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\profile.arm.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\MartianRobots.API.exe
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
@@ -13,8 +17,13 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\ne
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\MartianRobots.API.Tests.pdb
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -36,6 +45,7 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\ne
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -55,6 +65,9 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\ne
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Moq.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
@@ -211,15 +224,3 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\ne
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\netcoreapp3.1\MartianRobots.API.Tests.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\netcoreapp3.1\MartianRobots.API.Tests.pdb
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\netcoreapp3.1\MartianRobots.API.Tests.genruntimeconfig.cache
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Core.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Identity.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.MartianRobots - Web Deploy.json
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\profile.arm.json

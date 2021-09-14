@@ -1,12 +1,3 @@
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\bin\Debug\netcoreapp3.1\MartianRobots.Core.deps.json
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\bin\Debug\netcoreapp3.1\MartianRobots.Core.dll
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\bin\Debug\netcoreapp3.1\MartianRobots.Core.pdb
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\obj\Debug\netcoreapp3.1\MartianRobots.Core.csprojAssemblyReference.cache
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\obj\Debug\netcoreapp3.1\MartianRobots.Core.AssemblyInfoInputs.cache
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\obj\Debug\netcoreapp3.1\MartianRobots.Core.AssemblyInfo.cs
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\obj\Debug\netcoreapp3.1\MartianRobots.Core.csproj.CoreCompileInputs.cache
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\obj\Debug\netcoreapp3.1\MartianRobots.Core.dll
-C:\Users\Marcelo\source\repos\MoonWalkerRobot\MoonWalkerRobot.Core\obj\Debug\netcoreapp3.1\MartianRobots.Core.pdb
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Core\bin\Debug\netcoreapp3.1\MartianRobots.Core.deps.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Core\bin\Debug\netcoreapp3.1\MartianRobots.Core.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.Core\bin\Debug\netcoreapp3.1\MartianRobots.Core.pdb

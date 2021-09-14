@@ -3,6 +3,9 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcor
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\appsettings.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\serviceDependencies.MartianRobots - Web Deploy.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\mssql1.arm.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\profile.arm.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\MartianRobots.API.exe
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\MartianRobots.API.deps.json
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\MartianRobots.API.runtimeconfig.json
@@ -41,6 +44,7 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcor
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -51,6 +55,9 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcor
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
@@ -129,6 +136,7 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcor
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.AssemblyInfoInputs.cache
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.AssemblyInfo.cs
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.RazorTargetAssemblyInfo.cache
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.csproj.CopyComplete
@@ -137,11 +145,3 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcor
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.pdb
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.genruntimeconfig.cache
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\obj\Release\netcoreapp3.1\MartianRobots.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\serviceDependencies.MartianRobots - Web Deploy.json
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\profile.arm.json
-C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\mssql1.arm.json

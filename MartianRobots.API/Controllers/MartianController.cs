@@ -30,7 +30,10 @@ namespace MartianRobots.API.Controllers
         [HttpPost]
         [Route("Input")]
         public IActionResult Input([FromBody] UserInputDTO input)
-        {
+        {            
+            //It is assumed that the input data is already validated at the client side, in order to avoid postbacks
+            //and guaranteeing consistent information to process in the backend              
+
             //invoke Engine method
             var result = martianEngine.OperateRobotsOnGrid(input);
 
@@ -45,6 +48,9 @@ namespace MartianRobots.API.Controllers
         [Route("GetRobotMovements")]
         public IActionResult GetRobotMovements()
         {
+            //Example Method to retrieve all robot movements, their orientation, instructions, and positions
+
+
             //invoke Engine method
             var result = martianEngine.GetRobotMovements();
 
