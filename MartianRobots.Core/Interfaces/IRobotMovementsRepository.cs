@@ -7,7 +7,7 @@ namespace MartianRobots.Core.Interfaces
 {
     public interface IRobotMovementsRepository : IRepository<RobotMovements>
     {
-        IEnumerable<RobotMovements> GetListOfRobots();
+        List<RobotMovements> GetListOfRobots();
         RobotMovements GetRobotByName(string name);
     }
 }

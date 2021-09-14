@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/martianrobotsdbdbserver/databases/MartianRobotsDB",
+      "type": "mssql.azure",
+      "connectionId": "MartianRobotsDb",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

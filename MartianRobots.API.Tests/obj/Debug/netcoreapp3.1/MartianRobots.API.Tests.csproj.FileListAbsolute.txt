@@ -211,3 +211,15 @@ C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\ne
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\netcoreapp3.1\MartianRobots.API.Tests.dll
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\netcoreapp3.1\MartianRobots.API.Tests.pdb
 C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\obj\Debug\netcoreapp3.1\MartianRobots.API.Tests.genruntimeconfig.cache
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.MartianRobots - Web Deploy.json
+C:\Users\Marcelo\source\repos\MartianRobots\MartianRobots.API.Tests\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\MartianRobots - Web Deploy\profile.arm.json

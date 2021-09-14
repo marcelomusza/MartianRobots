@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-09-14T00:13:37.9525332Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "4b4eb6df-068a-4007-88f3-a84580dba647"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "MartianRobotsRG"
+    }
+  }
+}

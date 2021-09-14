@@ -56,19 +56,22 @@ namespace MartianRobots
             //Stablishing the relative location for the local db, available to be ran on any environment
             string conn = Configuration.GetConnectionString("MartianRobotsDb");
             if (conn.Contains("%CONTENTROOTPATH%"))
-                conn = conn.Replace("%CONTENTROOTPATH%", contentRootPath);     
+                conn = conn.Replace("%CONTENTROOTPATH%", contentRootPath);   
+            
+            //The Connectiong String will vary depending if the App is being ran Locally, or on Azure
+            services.AddDbContext<MartianRobotsDBContext>(cfg =>                
+                cfg.UseSqlServer(conn)
+            );
 
-            //Setting Database Connection
-            if(hostEnvironment.EnvironmentName.Equals("Development"))
+            services.AddSwaggerGen(config =>
             {
-                services.AddDbContext<MartianRobotsDBContext>(cfg =>                
-                    cfg.UseSqlServer(conn)
-                );
-            }
-            else
-            {
-                //Reserved for Azure
-            }
+                config.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "MartianRobots",
+                    Version = "v1"
+                });
+            });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -89,6 +92,9 @@ namespace MartianRobots
             {
                 endpoints.MapControllers();
             });
+
+            app.UseSwagger();
+
         }
     }
 }

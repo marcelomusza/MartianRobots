@@ -1,0 +1,115 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "MartianRobots",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Martian/Test": {
+      "get": {
+        "tags": [
+          "Martian"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Martian/Input": {
+      "post": {
+        "tags": [
+          "Martian"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/UserInputDTO"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "GridCoordinatesDTO": {
+      "type": "object",
+      "properties": {
+        "x": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "y": {
+          "format": "int32",
+          "type": "integer"
+        }
+      }
+    },
+    "PositionDTO": {
+      "type": "object",
+      "properties": {
+        "x": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "y": {
+          "format": "int32",
+          "type": "integer"
+        }
+      }
+    },
+    "RobotDTO": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "gridCoordinates": {
+          "$ref": "#/definitions/GridCoordinatesDTO"
+        },
+        "position": {
+          "$ref": "#/definitions/PositionDTO"
+        },
+        "orientation": {
+          "type": "string"
+        },
+        "instruction": {
+          "type": "string"
+        },
+        "instructions": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        }
+      }
+    },
+    "UserInputDTO": {
+      "type": "object",
+      "properties": {
+        "gridCoordinates": {
+          "$ref": "#/definitions/GridCoordinatesDTO"
+        },
+        "robotOperations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/RobotDTO"
+          }
+        }
+      }
+    }
+  }
+}

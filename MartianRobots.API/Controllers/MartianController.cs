@@ -1,6 +1,7 @@
 ﻿using MartianRobots.Application.DTOs;
 using MartianRobots.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -18,19 +19,13 @@ namespace MartianRobots.API.Controllers
             martianEngine = MartianEngine;
         }
 
-        // GET: api/<MarsController>
-        //[HttpGet]
-        //public IEnumerable<string> Get()
-        //{
-        //    return new string[] { "value1", "value2" };
-        //}
-
-        //// GET api/<MarsController>/5
-        //[HttpGet("{id}")]
-        //public string Get(int id)
-        //{
-        //    return "value";
-        //}
+        //GET: api/<MarsController>
+        [HttpGet]
+        [Route("Test")]
+        public IActionResult Test()
+        {
+            return Ok("All Good");
+        }
 
         [HttpPost]
         [Route("Input")]
@@ -46,16 +41,20 @@ namespace MartianRobots.API.Controllers
 
         }
 
-        //// PUT api/<MarsController>/5
-        //[HttpPut("{id}")]
-        //public void Put(int id, [FromBody] string value)
-        //{
-        //}
+        [HttpGet]
+        [Route("GetRobotMovements")]
+        public IActionResult GetRobotMovements()
+        {
+            //invoke Engine method
+            var result = martianEngine.GetRobotMovements();
 
-        //// DELETE api/<MarsController>/5
-        //[HttpDelete("{id}")]
-        //public void Delete(int id)
-        //{
-        //}
+            if (result != null)
+                return Ok(result);
+            else
+                return BadRequest("Problem found processing robot operations");
+
+        }
+
+
     }
 }

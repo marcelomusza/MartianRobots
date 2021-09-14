@@ -27,7 +27,7 @@ namespace MartianRobots.Infrastructure.Repository
 
 
 
-        public IEnumerable<RobotMovements> GetListOfRobots()
+        public List<RobotMovements> GetListOfRobots()
         {
             return ctx.RobotMovements
                 .Include(r => r.Robot)

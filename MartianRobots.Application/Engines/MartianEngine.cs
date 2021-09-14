@@ -239,6 +239,9 @@ namespace MartianRobots.Application.Engines
             }
         }
 
+
+
+
         private void SaveRobotPosition(RobotDTO robotDTO)
         {
             var existingRobot = uow.RobotMovements.GetRobotByName(robotDTO.Name);
@@ -297,6 +300,26 @@ namespace MartianRobots.Application.Engines
             var robotScentsToSave = mapper.Map<List<RobotScentDTO>, List<RobotScent>>(robotScents);
             uow.DeadEnds.AddRange(robotScentsToSave);
             uow.Complete();
+        }
+
+        public List<RobotMovementsOutputDTO> GetRobotMovements()
+        {
+            try
+            {
+                var listOfRobotMovementsFromDB = uow.RobotMovements.GetListOfRobots();
+
+                if (!listOfRobotMovementsFromDB.Any())
+                    throw new Exception("Robot Movements not available");
+
+                var robotMovementsOutput = mapper.Map<List<RobotMovements>, List<RobotMovementsOutputDTO>>(listOfRobotMovementsFromDB);
+
+                return robotMovementsOutput;
+            }
+            catch (Exception ex)
+            {
+                logger.Log(ConsoleColor.Red, $"Error occurred: {ex.Message}");
+                return null;
+            }
         }
     }
 }

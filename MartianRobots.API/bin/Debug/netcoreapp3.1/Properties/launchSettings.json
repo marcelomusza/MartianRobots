@@ -15,11 +15,11 @@
       "launchUrl": "martian",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "ancmHostingModel": "OutOfProcess"
     },
     "MartianRobots": {
       "commandName": "Project",
-      "launchBrowser": false,
       "launchUrl": "martian",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

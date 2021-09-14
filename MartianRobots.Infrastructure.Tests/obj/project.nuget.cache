@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wIOTPfN+Ihg3J3i2iiVafW1BrV6qb1GwgsIsh+cPF9woLR1MXp/RIkzOKlxV6r7p2K5h05JmxUDRg6B9kdpEbQ==",
+  "dgSpecHash": "rh1lSZ7Bn7Uvo7jeqNidgZ08m1ZApPovNvonkEf0MvDLBzbw8jkTsU0DvWk4ohILfjQnOc44D3A4d0Uh4un1Aw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marcelo\\source\\repos\\MartianRobots\\MartianRobots.Infrastructure.Tests\\MartianRobots.Infrastructure.Tests.csproj",
   "expectedPackageFiles": [
@@ -13,8 +13,8 @@
     "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.9\\microsoft.entityframeworkcore.inmemory.5.0.9.nupkg.sha512",
-    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.0\\microsoft.entityframeworkcore.relational.3.1.0.nupkg.sha512",
-    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.0\\microsoft.entityframeworkcore.sqlserver.3.1.0.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.3\\microsoft.entityframeworkcore.relational.3.1.3.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.3\\microsoft.entityframeworkcore.sqlserver.3.1.3.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
